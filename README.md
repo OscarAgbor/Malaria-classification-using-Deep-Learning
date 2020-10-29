@@ -1,2 +1,3 @@
-# Malaria-classification-using-Deep-Learning
-Transfer learning using InceptionV3 architecture
+# Classification Algortihms Using Various Deep Learning Architechtures 
+
+* disease classification 
