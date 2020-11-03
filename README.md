@@ -1,3 +1,1 @@
-# Classification Algortihms Using Various Deep Learning Architechtures 
-
-* disease classification 
+Malaria image classification using python deep learning libraries
